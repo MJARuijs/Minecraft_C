@@ -1,0 +1,4 @@
+enum BackgroundType {
+    TEXTURED,
+    COLORED
+};
